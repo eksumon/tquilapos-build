@@ -1,4 +1,5 @@
 {
   "Version": "1.2.17.0",
-  "Url": "https://github.com/eksumon/tquilapos-build/raw/refs/heads/main/TequilasPOS-FBAG_TFS_1.2.17.0_x64.msix?download="
+  "Url": "https://github.com/eksumon/tquilapos-build/raw/refs/heads/main/TequilasPOS-FBAG_TFS_1.2.17.0_x64.msix?download=",
+  "Certificate": "https://github.com/eksumon/tquilapos-build/raw/refs/heads/main/TequilasPOS-FBAG_TFS_1.2.17.0_x64.cer?download="
 }
